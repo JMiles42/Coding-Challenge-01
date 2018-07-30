@@ -3,7 +3,10 @@ class Timer
 {
 public:
 	Timer();
+	Timer(bool _expiredState);
 	~Timer();
-	bool IsExpired();
+	bool IsExpired() const;
+private:
+	bool expiredState;
 };
 

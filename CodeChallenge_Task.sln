@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_01", "CodeChallenge_Task_01.vcxproj", "{4F9AAC27-CFBE-4FAB-A01F-C37C62BBB282}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_01", "Task 01\CodeChallenge_Task_01.vcxproj", "{4F9AAC27-CFBE-4FAB-A01F-C37C62BBB282}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_02", "..\CodeChallenge_Task_02\CodeChallenge_Task_02.vcxproj", "{BA3874FF-B891-42E3-B952-2E7956794B61}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_02", "Task 02\CodeChallenge_Task_02.vcxproj", "{BA3874FF-B891-42E3-B952-2E7956794B61}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_03", "CodeChallenge_Task_03\CodeChallenge_Task_03.vcxproj", "{AEB182F3-5BD3-4372-A30F-5B06A0F48D6F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeChallenge_Task_03", "Task 03\CodeChallenge_Task_03.vcxproj", "{AEB182F3-5BD3-4372-A30F-5B06A0F48D6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

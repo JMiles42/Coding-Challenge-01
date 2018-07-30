@@ -4,11 +4,14 @@
 
 Timer::Timer()
 {
+	expiredState = false;
 }
 
+Timer::Timer(const bool _expiredState) {
+	expiredState = _expiredState;
+}
 
 Timer::~Timer()
-{
-}
+= default;
 
-bool Timer::IsExpired() { return false; }
+bool Timer::IsExpired() const { return expiredState; }
